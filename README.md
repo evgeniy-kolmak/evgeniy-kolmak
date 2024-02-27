@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="550"/>
 </div>
-<h1 align="center">Hi there, I'm <a href="https://webhuman.ru/" target="_blank">Evgeniy</a> 
+<h1 align="center">Hi there, I'm Evgeniy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32 "height="32"/></h1>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/evgeniy-kolmak-372b43227/">
