@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="550"/>
 </div>
 <h1 align="center">Hi there, I'm Evgeniy
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32 /></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" /></h1>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/evgeniy-kolmak-372b43227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
